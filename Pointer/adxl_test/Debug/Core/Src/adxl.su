@@ -1,0 +1,10 @@
+../Core/Src/adxl.c:32:6:HAL_GPIO_EXTI_Callback	16	static
+../Core/Src/adxl.c:42:9:poll_adxl_event	8	static
+../Core/Src/adxl.c:62:6:adxl_spi_write	16	static
+../Core/Src/adxl.c:73:6:adxl_spi_read	16	static
+../Core/Src/adxl.c:85:5:adxl345_init	16	static
+../Core/Src/adxl.c:128:6:adxl_start	16	static
+../Core/Src/adxl.c:136:6:adxl_stop	16	static
+../Core/Src/adxl.c:144:6:adxl_get_accl_val	16	static
+../Core/Src/adxl.c:150:6:adxl_read_regs	16	static
+../Core/Src/adxl.c:167:6:adxl_calibrate	16	static

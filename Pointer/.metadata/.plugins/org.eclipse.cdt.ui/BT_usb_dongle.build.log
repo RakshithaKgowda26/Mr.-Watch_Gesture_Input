@@ -1,0 +1,10 @@
+08:38:23 **** Incremental Build of configuration Debug for project BT_usb_dongle ****
+make -j4 all 
+arm-none-eabi-size   BT_usb_dongle.elf 
+   text	   data	    bss	    dec	    hex	filename
+  16988	    464	   5704	  23156	   5a74	BT_usb_dongle.elf
+Finished building: default.size.stdout
+ 
+
+08:38:24 Build Finished. 0 errors, 0 warnings. (took 484ms)
+
